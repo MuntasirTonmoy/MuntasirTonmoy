@@ -3,8 +3,8 @@
 #### I'm a Front-end developer from Bangladesh
 
 #### Contact
-- LinkedIn [https://www.linkedin.com/in/muntasir-hossain/](https://www.linkedin.com/in/muntasir-hossain/)
 - Email [muntasir01521566317@gmail.com](mailto:muntasir01521566317@gmail.com)
+- LinkedIn [https://www.linkedin.com/in/muntasir-hossain/](https://www.linkedin.com/in/muntasir-hossain/)
 
 #### About Me
 - 🌱 I’m currently learning MERN Stack.
