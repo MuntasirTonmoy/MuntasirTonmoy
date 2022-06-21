@@ -8,7 +8,7 @@
 
 #### About Me
 - 🌱 I’m currently learning MERN Stack.
-- 🔭 I'm expert in using `.html`, `.css`, `.js`, `.jsx`
+- 🔭 I'm an expert in using `.html`, `.css`, `.js`, `.jsx`
 - 👯 I’m looking to collaborate with MERN Stack Development.
 - 🤔 I’m looking for help with Open source Contribution.
 - 💬 Ask me about HTML, CSS, JavaScript and React JS.
